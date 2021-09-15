@@ -1,11 +1,16 @@
 <h1 align = "center" >Olá, mundo!</h1>
 
-<div>
-  <a href="https://github.com/NishhiRye">
+
+<div align = "center" >
   
+  <a href="https://github.com/NishhiRye">  
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishhiRye&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
-<div style="display: inline_block"><br>
+  
+  
+<div align = "center" style="display: inline_block"><br>
+  
   <img align="center" alt="Vitu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Vitu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vitu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
