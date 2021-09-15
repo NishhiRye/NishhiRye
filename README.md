@@ -1,4 +1,4 @@
-<h1>Olá, mundo!</h1>
+<h1 align = "center" >Olá, mundo!</h1>
 
 <div>
   <a href="https://github.com/NishhiRye">
